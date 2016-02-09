@@ -1,0 +1,7 @@
+name: TemoApoc
+main: net.temomc.apoc.TemoApoc
+version: 0.0.1
+description: The TemoMC plugin that handles apocolyptic functionality
+author: TemoDevil
+website: https://temomc.net
+commands:
