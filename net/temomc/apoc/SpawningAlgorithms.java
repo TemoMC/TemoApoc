@@ -1,3 +1,10 @@
+/**
+ * TemoMC Apocolypse Plugin (TemoApoc)
+ * Copyright (C) 2016 TemoDevil (devil@temomc.net)
+ * Released under the terms of the GNU General Public License
+ *   as published by the Free Software Foundation; either version
+ *   3 of the license, or (at your option) any later version.
+ */
 package net.temomc.apoc;
 
 import java.util.stream.Stream;
